@@ -13,4 +13,4 @@ In this project, we are tasked to answer the following question:
 
 ## Files
 
-`Ride Share - Case Study.ipynb` – full project
+`Ride Share Data Analysis - Case Study.ipynb` – full project
